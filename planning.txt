@@ -1,0 +1,38 @@
+project outline (Railway Ticket reservation)
+    - UI
+    - UX
+    - Database
+
+UI (user interface)
+    - Menu based
+    - Console based
+
+UX (user experience)
+    - Trip details
+    - Booking of ticket
+    - PNR (passenger name record) status
+    - Cancel Ticket
+
+Database 
+    - user
+        - first name
+        - last name
+        - gender
+        - age
+        - contact
+        - count
+        
+    - trip
+        - train name
+        - fromDestination
+        - toDestination
+        - duration
+        - cost
+
+    - ticket
+        - id
+        - user
+        - trip
+        - amount
+
+
